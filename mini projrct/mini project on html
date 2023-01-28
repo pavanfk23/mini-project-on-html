@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Time table small project</title>
+</head>
+<body>
+    <! time table>
+    <table border cellpadding="20px">
+        <thead>
+            <tr>
+                <th colspan="8"> TIME TABLE</th>
+            </tr>
+            <tr>
+                <th> Day/Lectures</th>
+                <th> I <br/>9:00-10:00</th>
+                <th> II <br/>10:00-11:00</th>
+                <th> III <br/>11:00-12:00</th>
+                <th> LUNCH BREAK <br/>12:00-1:00</th>
+                <th> IV <br/>1:00-2:00</th>
+                <th> V <br/>2:00-3:00</th>
+                <th> VI <br/>3:00-4:00</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Monday</td>
+                <td>SCIENCE</td>
+                <td>MATHS</td>
+                <td>ENGLISH</td>
+                <td rowspan="6">LUNCH BREAK</td>
+                <td>KANNADA</td>
+                <td>SOCIALS</td>
+                <td>HINDI</td>
+            </tr>
+            <tr>
+                <td>TUESDAY</td>
+                <td>SCIENCE</td>
+                <td>MATHS</td>
+                <td>ENGLISH</td>
+                
+                <td>KANNADA</td>
+                <td>SOCIALS</td>
+                <td>HINDI</td>
+            </tr>
+            <tr>
+                <td>WEDNESDAY</td>
+                <td>SCIENCE</td>
+                <td>MATHS</td>
+                <td>ENGLISH</td>
+                
+                <td>KANNADA</td>
+                <td>SOCIALS</td>
+                <td>HINDI</td>
+            </tr>
+            <tr>
+                <td>THRUSDAY</td>
+                <td>SCIENCE</td>
+                <td>MATHS</td>
+                <td>ENGLISH</td>
+                
+                <td>KANNADA</td>
+                <td>SOCIALS</td>
+                <td>HINDI</td>
+            </tr>
+            <tr>
+                <td>FRIDAY</td>
+                <td>SCIENCE</td>
+                <td>MATHS</td>
+                <td>ENGLISH</td>
+                
+                <td>KANNADA</td>
+                <td>SOCIALS</td>
+                <td>HINDI</td>
+            </tr>
+            <tr>
+                <td>SATURDAY</td>
+                <td>SCIENCE</td>
+                <td>MATHS</td>
+                <td>ENGLISH</td>
+                <td colspan="4">NO LECTURES</td>
+                
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
